@@ -1,0 +1,242 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: 'Roboto Condensed', sans-serif;
+  font-weight: lighter;
+  font-size: 22px;
+  margin: auto;
+  background-color: #FFFFFF;
+}
+
+p {
+  width: 600px;
+  margin: auto;
+  text-align: left;
+
+}
+
+a:link {
+  text-decoration: none;
+  color: #FFFFFF;
+}
+
+a:visited {
+  text-decoration: none;
+  color: #FFFFFF;
+}
+
+a:hover {
+  text-decoration: none;
+  color: #FFD243;
+}
+
+a:active {
+  text-decoration: none;
+  color: #FFFFFF;
+}
+
+ul {
+  padding: 0;
+}
+
+li {
+  display: inline-block;
+  font-size: 18px;
+  margin: 16px 20px;
+  text-transform: uppercase;
+}
+
+.nav {
+  text-align: center;
+  margin: auto;
+  background-color: #000000;
+  height: 50px;
+  width: 100%;
+  letter-spacing: 3px;
+}
+
+.header {
+  height: 175px;
+  text-align: center;
+  margin: auto;
+  width: 100%;
+  top: 50px;
+  padding-top: 15px;
+  padding-bottom: 10px;
+  margin-bottom: 0px;
+  margin-top: 20px;
+}
+
+.name {
+  font-family: 'Clicker Script', cursive;
+  font-size: 120px;
+  margin-bottom: 0px;
+  color: #FFD243;
+}
+
+.contact {
+  height: 40px;
+  width: 40px;
+}
+
+.contact2 {
+  margin-top: 0;
+  line-height: 0;
+  margin: auto;
+  border-bottom: 2px solid #B2B2B2;
+  width: 500px;
+  margin-bottom: 50px;
+  padding-bottom: 20px;
+}
+
+.content {
+  width: 600px;
+  margin: auto;
+  text-align: left;
+  font-size: 20px;
+  text-align: justify;
+  margin-bottom: 200px;
+}
+
+.content a:link {
+  text-decoration: none;
+  font-weight: normal;
+  color: #FFD243;
+}
+
+.content a:visited {
+  text-decoration: none;
+  font-weight: normal;
+  color: #FFD243;
+}
+
+.content a:hover {
+  text-decoration: none;
+  font-weight: normal;
+  color: #B2B2B2;
+}
+
+.content a:active {
+  text-decoration: none;
+  font-weight: normal;
+  color: #FFD243;
+}
+
+.pheader {
+  height: 175px;
+  text-align: center;
+  margin: auto;
+  width: 100%;
+  top: 50px;
+  padding-top: 15px;
+  margin-bottom: 0px;
+  margin-top: 20px;
+}
+
+.pimage {
+  width: 600px;
+  border: 4px solid #000000;
+}
+
+.phead {
+  text-transform: uppercase;
+  text-align: center;
+  font-weight: bold;
+  margin-top: 15px;
+}
+
+.pcontent {
+  width: 600px;
+  margin: auto;
+  text-align: left;
+  font-size: 20px;
+  margin-bottom: 30px;
+  text-align: justify;
+}
+
+.pcontent a:link {
+  text-decoration: none;
+  color: #FFD243;
+  font-weight: normal;
+}
+
+.pcontent a:visited {
+  text-decoration: none;
+  color: #FFD243;
+  font-weight: normal;
+}
+
+.pcontent a:hover {
+  text-decoration: none;
+  color: #B2B2B2;
+  font-weight: normal;
+}
+
+.pcontent a:active {
+  text-decoration: none;
+  color: #FFD243;
+  font-weight: normal;
+}
+
+.pbutton {
+ margin: auto;
+ text-align: center;
+ text-transform: uppercase;
+ color: #FFFFFF;
+ padding: 10px;
+ background-color: #000000;
+ width: 200px;
+ font-size: 22px;
+ letter-spacing: 4px;
+ margin-bottom: 10px;
+}
+
+.pbutton a:link {
+  text-decoration: none;
+  color: #FFFFFF;
+  font-weight: lighter;
+}
+
+.pbutton a:visited {
+  text-decoration: none;
+  color: #FFFFFF;
+  font-weight: lighter;
+}
+
+.pbutton a:hover {
+  text-decoration: none;
+  color: #FFD243;
+  font-weight: lighter;
+}
+
+.pbutton a:active {
+  text-decoration: none;
+  color: #FFFFFF;
+  font-weight: lighter;
+}
+
+.phead2 {
+  text-transform: uppercase;
+  text-align: center;
+  font-weight: normal;
+  margin: auto;
+  margin-top: 40px;
+  margin-bottom: 35px;
+  font-size: 28px;
+  border-bottom: 2px solid #B2B2B2;
+  width: 500px;
+  padding-bottom: 15px;
+}
+
+.psub {
+  text-align: center;
+  font-weight: bold;
+}
+
+.pimage2 {
+  width: 600px;
+  margin-bottom: 15px;
+}
